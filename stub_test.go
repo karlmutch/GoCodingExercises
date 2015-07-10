@@ -1,4 +1,4 @@
-package TestStrawman
+package main
 
 import (
 	"testing"
