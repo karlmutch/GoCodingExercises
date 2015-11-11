@@ -1,5 +1,5 @@
 // stub.go
-package main
+package stub
 
 import "errors"
 
